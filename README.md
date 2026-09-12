@@ -28,19 +28,6 @@ It can be used with Shizuku to provide advanced Android functionality without re
 - Root is not required for supported Shizuku features
 
 ---
-
-📥 Download APK
-
-Latest Release
-
-👉 "Download AxManager APK" (../../releases/latest)
-
-You can also find previous versions on the "Releases" (../../releases) page.
-
-«⚠️ Only download AxManager from trusted sources and verify the APK before installing it.»
-
----
-
 🛠️ Installation
 
 Method 1 — APK Installation
